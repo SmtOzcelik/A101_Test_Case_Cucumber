@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.111" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="A101 kredi karti ile aliş veris" name="TC kadin siyah dizalti corap alimi" time="0.016">
+<system-out><![CDATA[
+Given Kullanıcı "A101Url" girer.............................................passed
+Then Kullanıcı cokies i kabul eder..........................................passed
+And Kullanici Giyim&Aksesuar bolumune mouse'u getirerek bekler..............passed
+And Kullanici Dizaltı Corap tiklar..........................................passed
+And Kullanici Siyah Corap olana tiklar......................................passed
+And Kullanici secilen urunun siyah oldugunu dogrular........................passed
+And Kullanici sepete ekler butonuna tiklar..................................passed
+And Kullanici sepeti görüntüle butonuna tiklar..............................passed
+And Kullanici sepeti onayla butonuna tiklar.................................passed
+And Kullanici uye girisi olmadan butonuna tiklar............................passed
+And Kullanici email girisi yapar............................................passed
+And Kullanici yeni adres oluştur butonuna tiklar............................passed
+And Kullanici adres basligi ve diger bilgileri girer........................passed
+And Kullanici il secer......................................................passed
+And Sistem 1 sn beklet......................................................passed
+And Kullanici ilce secer....................................................passed
+And Kullanici mahalle secer.................................................passed
+And Kullanci adres bilgileri girer..........................................passed
+And Kullanci kaydet butonuna tiklar.........................................passed
+And Kullanci adres kaydetdikten ve kargo secildikten sonra kaydet devam et butonuna tiklar.passed
+And Kullanıci ödeme sayfasina geldigini dogrular............................passed
+And Kullanici sayfayi kapatir...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
